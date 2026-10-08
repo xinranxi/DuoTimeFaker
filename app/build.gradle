@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.duo.timezone'
+    namespace 'io.github.xinranxi.duotimefaker'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.duo.timezone"
+        applicationId "io.github.xinranxi.duotimefaker"
         minSdk 26
         targetSdk 34
         versionCode 2

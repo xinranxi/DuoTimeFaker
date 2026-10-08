@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.duo.timezone"
+    package="io.github.xinranxi.duotimefaker"
     android:versionCode="2"
     android:versionName="2.0">
     <application
@@ -11,7 +11,7 @@
             android:value="true" />
         <meta-data
             android:name="xposeddescription"
-            android:value="Force Asia/Tokyo timezone and relax watchdog for Duolingo" />
+            android:value="Force Asia/Tokyo timezone and relax watchdog for Duolingo video calls" />
         <meta-data
             android:name="xposedminversion"
             android:value="54" />
